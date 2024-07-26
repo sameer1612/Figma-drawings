@@ -8,3 +8,5 @@ A collection of vector drawings done on figma. Quite novice but some are good. M
 ![Plant](https://github.com/user-attachments/assets/9d3216cc-6a1f-4241-a211-a191de5febfe)
 
 ![Rain rain go away](https://github.com/user-attachments/assets/a9acef39-9b93-4d46-a7a0-ac3ca8c75664)
+
+![2nd month engagement](https://github.com/user-attachments/assets/8b65c5ac-2415-4c60-b869-ff7a898724c1)
