@@ -10,3 +10,5 @@ A collection of vector drawings done on figma. Quite novice but some are good. M
 ![Rain rain go away](https://github.com/user-attachments/assets/a9acef39-9b93-4d46-a7a0-ac3ca8c75664)
 
 ![2nd month engagement](https://github.com/user-attachments/assets/8b65c5ac-2415-4c60-b869-ff7a898724c1)
+
+<img width="900" alt="Rabbit in the hat" src="https://github.com/user-attachments/assets/88332b48-0838-4f83-b9bf-ae1e48c8d364">
