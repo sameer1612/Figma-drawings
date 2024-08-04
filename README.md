@@ -11,4 +11,6 @@ A collection of vector drawings done on figma. Quite novice but some are good. M
 
 ![2nd month engagement](https://github.com/user-attachments/assets/8b65c5ac-2415-4c60-b869-ff7a898724c1)
 
-<img width="900" alt="Rabbit in the hat" src="https://github.com/user-attachments/assets/88332b48-0838-4f83-b9bf-ae1e48c8d364">
+![Rabbit in the hat](https://github.com/user-attachments/assets/582a5d21-f0b3-4b1e-be51-6f37699846a9)
+
+![Hug](https://github.com/user-attachments/assets/ee566259-f92b-4d1e-a2ef-6ffa89a625f7)
