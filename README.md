@@ -16,3 +16,5 @@ A collection of vector drawings done on Figma. Quite novice but some are good.
 ![Hug](https://github.com/user-attachments/assets/ee566259-f92b-4d1e-a2ef-6ffa89a625f7)
 
 ![House in Rain](https://github.com/user-attachments/assets/7276e018-d4fe-4bb3-b394-61a13fa38794)
+
+<img width="900" alt="Silhouette" src="https://github.com/user-attachments/assets/023d5a06-35c2-4517-9f58-79208d3e7d9e">
