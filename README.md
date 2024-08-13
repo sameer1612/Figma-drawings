@@ -1,5 +1,5 @@
 # Figma-drawings
-A collection of vector drawings done on figma. Quite novice but some are good. Mostly trying to replicate from any random google images.
+A collection of vector drawings done on Figma. Quite novice but some are good.
 
 ![Budha](https://github.com/user-attachments/assets/6e842e39-ea44-4b6a-8389-2aa04b35b8a4)
 
@@ -14,3 +14,5 @@ A collection of vector drawings done on figma. Quite novice but some are good. M
 ![Rabbit in the hat](https://github.com/user-attachments/assets/582a5d21-f0b3-4b1e-be51-6f37699846a9)
 
 ![Hug](https://github.com/user-attachments/assets/ee566259-f92b-4d1e-a2ef-6ffa89a625f7)
+
+![House in Rain](https://github.com/user-attachments/assets/7276e018-d4fe-4bb3-b394-61a13fa38794)
