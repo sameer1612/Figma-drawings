@@ -1,4 +1,4 @@
 # Figma-drawings
 A collection of vector drawings done on Figma. Quite novice but some are good.
 
-![Rabbit in the hat](https://github.com/user-attachments/assets/582a5d21-f0b3-4b1e-be51-6f37699846a9)
+<img width="853" alt="image" src="https://github.com/user-attachments/assets/5778ab81-b69e-4579-a63b-e870a8d9b978">
